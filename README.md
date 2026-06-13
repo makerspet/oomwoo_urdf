@@ -3,3 +3,5 @@
 This package is using [makerspet_mini ROS2 package](https://github.com/makerspet/makerspet_mini) as a template.
 
 Read [old README.md](./README_OLD.md) to get started modifying this repo.
+
+![oomwoo Open source vacuum cleaner placeholder illustration](https://github.com/makerspet/oomwoo/raw/main/assets/vacuum-no-dock-front.webp)
